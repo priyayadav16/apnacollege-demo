@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my new Repository
 <br>
-Author - maahi jadhav
+Author - maahi (vp college)
